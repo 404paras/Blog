@@ -1,0 +1,30 @@
+.header {
+    margin-top: 60px;
+}
+
+.headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Moon Dance', cursive;
+    color: #444;
+}
+
+.headerTitleSmall {
+    font-size: 20px;
+    position: absolute;
+    top: 14%;
+}
+
+.headerTitleBig {
+    font-size: 80px;
+    position: absolute;
+    top: 16%;
+}
+
+.headerImg {
+    width: 100%;
+    height: 650px;
+    margin-top: 80px;
+    object-fit: cover;
+}
